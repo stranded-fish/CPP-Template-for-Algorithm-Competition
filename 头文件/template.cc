@@ -24,6 +24,7 @@
 #include <bitset>
 #include <functional>
 #include <random>
+#include <memory>
 
 using namespace std;
 
